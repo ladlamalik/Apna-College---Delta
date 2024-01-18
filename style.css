@@ -1,0 +1,16 @@
+ * {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
+ h1 {
+  color: #b92b27;
+ }
+
+ .upvote {
+  background-color: green;
+  color: white
+ }
+
+ #myid p{
+  color: red
+ }
